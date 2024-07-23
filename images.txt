@@ -25,3 +25,4 @@ registry:latest
 portainer:latest
 jenkins/jenkins:2.439
 mysql:5.7
+nginx
