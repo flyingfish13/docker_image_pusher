@@ -5,3 +5,4 @@ phpmyadmin:5.2.1
 redis:6.2
 mariadb:10.3.28
 python:alpine3.19
+bitnami/kafka:latest
