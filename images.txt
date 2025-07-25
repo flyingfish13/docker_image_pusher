@@ -1,8 +1,1 @@
-mysql:5.7
-nacos/nacos-server:1.4.2
-mysql:8.0.32
-phpmyadmin:5.2.1
-redis:6.2
-mariadb:10.3.28
-python:alpine3.19
-bitnami/kafka:latest
+neo4j:latest
